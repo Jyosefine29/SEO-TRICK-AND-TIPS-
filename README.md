@@ -1,3 +1,7 @@
+![digital_marketing_banner](https://github.com/Jyosefine29/SEO-TRICK-AND-TIPS-/assets/149305173/59ba3a4c-1e44-40b1-a453-95b2a1870a99)
+
+# SEO-TRICK-AND-TIPS
+
 On-Page SEO:
 Target relevant keywords: Research keywords that people are searching for related to your website's content. Use tools like Google Keyword Planner (part of Google Ads) or Ahrefs (free trial available) to find relevant keywords with good search volume and lower competition.
 High-quality, original content: Create informative, engaging, and well-written content that provides value to your readers. Optimize your content for your target keywords by including them naturally throughout the text, but avoid keyword stuffing. I’ll explain you letter on what is keyword stuffing.
@@ -17,8 +21,3 @@ Google Keyword Planner: This free tool helps you research keywords and understan
 Ahrefs (Free Trial): Ahrefs offers a wide range of SEO tools, including keyword research, competitor analysis, and backlink checking. The free trial gives you a taste of the features.
 Moz Beginner's Guide to SEO: This free guide from Moz provides a comprehensive overview of SEO best practices. 
 SEOquake Chrome Extension: This free extension adds a toolbar to your Chrome browser that provides SEO metrics for any website you visit.
-![digital_marketing_banner](https://github.com/Jyosefine29/SEO-TRICK-AND-TIPS-/assets/149305173/59ba3a4c-1e44-40b1-a453-95b2a1870a99)
-
-
-# SEO-TRICK-AND-TIPS-
-My first SEO repository  
